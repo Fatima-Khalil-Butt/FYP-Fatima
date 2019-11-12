@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApplicationPractice</string>
+    <string name="st">Simple Task</string>
+    <string name="mt">Medium Task</string>
+    <string name="ht">Hard Task</string>
+    <string name="help">Ask Questions</string>
+</resources>
